@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 3000; // Changed port to match the frontend reference
+ // Changed port to match the frontend reference
 const path = require("path");
 
 // Serve static files from the "public" directory
@@ -19,5 +19,5 @@ app.get("/download-resume", (req, res) => {
 
 // Start the server
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+  console.log(`Server is running on https://portfolio-1-hyf4.onrender.com`);
 });
