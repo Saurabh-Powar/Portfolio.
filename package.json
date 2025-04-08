@@ -1,0 +1,16 @@
+{
+  "name": "resources",
+  "version": "1.0.0",
+  "main": "backend.js",
+  "scripts": {
+    "main": "node backend.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
