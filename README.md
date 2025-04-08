@@ -49,7 +49,7 @@ This will install the necessary dependencies for the server.
 ### **4️⃣ Start the Local Server**
 Run the following command to start the Express.js backend:
 ```bash
-node server.js
+node backend.js
 ```
 The server should now be running at:
 ```
