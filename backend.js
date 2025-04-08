@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port= "https://portfolio-misr.onrender.com"
+const port= "https://portfolio-misr.onrender.com";
  // Changed port to match the frontend reference
 const path = require("path");
 
